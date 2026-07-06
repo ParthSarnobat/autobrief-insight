@@ -9,8 +9,8 @@
 
 <br/>
 
-> **🎥 Watch the Demo:** [Insert Your YouTube Link Here]  
-> **🏆 Kaggle Writeup:** [Insert Your Kaggle Link Here]
+> **🎥 Watch the Demo:** [[Youtube](https://youtu.be/nhErVncYv-Y)]  
+> **🏆 Kaggle Writeup:** [[Kaggle](https://kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/autobrief-insight)]
 
 ## 🧠 The Problem & The Solution
 
