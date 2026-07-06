@@ -46,7 +46,7 @@ Located in the "Interrogator Terminal," this conversational agent is granted sha
 
 ## 🛠️ Tech Stack
 
-* **LLM Provider:** Google Gemini API (`gemini-1.5-flash` / `gemini-2.5-flash`)
+* **LLM Provider:** Google Gemini API (`gemini-2.5-flash` / `gemini-3.5-flash`)
 * **Framework:** Python, Gradio
 * **Agent Architecture:** ADK 2.0, MCP (Model Context Protocol) Server
 * **Web Parsing:** `requests`, `BeautifulSoup4`
