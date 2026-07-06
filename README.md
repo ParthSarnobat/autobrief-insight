@@ -33,6 +33,8 @@ The Analyst takes the raw web data from the Scout and applies rigid prompt engin
 ### 3. 💬 The Interrogator Agent (Interactive Context)
 Located in the "Interrogator Terminal," this conversational agent is granted shared-state memory of the Analyst's compiled report. It securely sanitizes user inputs and allows researchers to ask deep-dive follow-up questions (e.g., *"Tell me more about the technical specs of the new model mentioned in the first article."*) based directly on the day's fetched context.
 
+<img width="2720" height="2768" alt="autobrief_insight_pipeline_flowchart" src="https://github.com/user-attachments/assets/aa1dddb7-5d5b-403e-8730-da23b0a522fb" />
+
 ---
 
 ## ✨ Key Features & UX
